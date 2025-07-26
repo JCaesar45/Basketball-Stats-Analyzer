@@ -1,5 +1,5 @@
 ```markdown
-# NBA Basketball Stats Analyzer
+# Basketball Stats Analyzer
 
 A simple web-based basketball statistics analysis tool inspired by NBA themes. Built with HTML, CSS, and JavaScript, it allows users to input player stats, display a list of players, and view basic analytics such as total points, average points per player, and the top scorer.
 
